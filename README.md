@@ -43,10 +43,10 @@
 </div>
 <div align="center">
   <a href="https://vk.com/ladomitorydev_news">
-    <img src="/vk-2173.svg" height="40" alt="vk logo" />
+    <img src="icons/vk-2173.svg" height="40" alt="vk logo" />
   </a>
   <img width="12" />
   <a href="https://t.me/ladomitorydev_news">
-    <img src="telegram-circle-blue-logo-16635.svg" height="38" alt="telegram logo" />
+    <img src="icons/telegram-circle-blue-logo-16635.svg" height="38" alt="telegram logo" />
   </a>
 </div>
